@@ -82,7 +82,7 @@ Options:
                                                           'A.B.C-suffix' and 'A.B.C.D-suffix'.
   -pn, --protocol-name <PROTOCOL_NAME>                     The protocol name. Only applicable for the 'protocolvisio'
                                                           type.
-  -o, --output <OUTPUT_DIRECTORY> (REQUIRED)              Directory where the package will be stored.kv
+  -o, --output <OUTPUT_DIRECTORY> (REQUIRED)              Directory where the package will be stored.
   -n, --name <OUTPUT_NAME>                                Name of the package.
   -?, -h, --help                                          Show help and usage information
 ```
